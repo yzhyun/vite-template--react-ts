@@ -1,12 +1,10 @@
 # React(TS) Template with Vite
 
-[React 프로젝트 시작하기 w. Vite](https://www.heropy.dev/p/6iFzkB) 글을 통해서 완성할 수 있는 템플릿입니다.
-
 [Degit](https://github.com/Rich-Harris/degit) 명령으로 완성된 프로젝트 구조를 빠르게 복사해 바로 사용할 수 있습니다.
 
 ```bash
 # 현재 프로젝트(폴더)에 템플릿 복사
-npx degit ParkYoungWoong/vite-template--react-ts .
+npx degit yzhyun/vite-template--react-ts .    
 # 패키지 설치
 npm i
 # 프로젝트 실행
